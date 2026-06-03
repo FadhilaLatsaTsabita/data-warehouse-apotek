@@ -11,7 +11,6 @@ import plotly.express as px
 from sqlalchemy import create_engine
 
 # Masukkan Connection String dari Supabase
-DB_URL = "postgresql://postgres.hudffdkqzckfayxpslun:Proyek_Datwer@aws-1-ap-southeast-1.pooler.supabase.com:5432/postgres"
 engine = create_engine(DB_URL)
 
 # ============================================================
