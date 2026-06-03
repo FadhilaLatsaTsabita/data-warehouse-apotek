@@ -1,121 +1,121 @@
-ProdukID,KodeProduk,NamaProduk,KategoriProduk,JenisProduk,Brand,SupplierID,HargaModal,HargaSatuanDefault,MarginDefault
-PRD001,KF-P0001,Gel Nyeri Otot Forte,Obat Bebas,Tablet,Kimia Farma,SUP034,25500,32000,0.25
+ProdukID,KodeProduk, Nama Produk ,KategoriProduk,JenisProduk,Brand,SupplierID,HargaModal,HargaSatuanDefault,MarginDefault
+prd001,KF-P0001,Gel Nyeri Otot Forte,Obat Bebas,Tablet,Kimia Farma,SUP034,25500,32000,0.25
 PRD002,KF-P0002,Termometer Digital,Obat Bebas,Salep,NaturaFit,SUP078,43000,51500,0.2
 PRD003,KF-P0003,Gel Nyeri Otot Care,Obat Bebas,Salep,CareOne,SUP006,27000,32000,0.18
-PRD004,KF-P0004,Termometer Digital Family,Obat Bebas,Sirup,AlkesPro,SUP043,11500,15000,0.3
+ PRD004 ,KF-P0004,Termometer Digital Family,Obat Bebas,Sirup,AlkesPro,SUP043,11500,15000,0.3
 PRD005,KF-P0005,Tensimeter Digital Forte,Vitamin & Suplemen,Tablet,CareOne,SUP086,67500,79500,0.18
-PRD006,KF-P0006,Glukosa Test Strip Forte,Vitamin & Suplemen,Botol,CareOne,SUP025,73500,84500,0.15
-PRD007,KF-P0007,Plester Luka,Perawatan Kesehatan,Spray,HerbaNusa,SUP073,25000,31000,0.25
-PRD008,KF-P0008,Masker Medis 3 Ply Forte,Alat Kesehatan,Masker,AlkesPro,SUP075,29500,35500,0.2
-PRD009,KF-P0009,Salep Kulit Family,Perawatan Kesehatan,Cairan,NaturaFit,SUP028,59500,77500,0.3
+prd006,KF-P0006,Glukosa Test Strip Forte,Vitamin & Suplemen,Botol,CareOne,SUP025,73500,84500,0.15
+prd007,KF-P0007,Plester Luka,,Spray,HerbaNusa,SUP073,25000,31000,0.25
+ PRD008 ,KF-P0008,Masker Medis 3 Ply Forte,Alat Kesehatan,Masker,AlkesPro,SUP075,29500,35500,0.2
+ prd009 ,KF-P0009,Salep Kulit Family,Perawatan Kesehatan,Cairan,NaturaFit,SUP028,59500,77500,0.3
 PRD010,KF-P0010,Plester Luka,Alat Kesehatan,Termometer,AlkesPro,SUP085,39000,49000,0.25
 PRD011,KF-P0011,Susu Kesehatan Plus,Vitamin & Suplemen,Tablet,MedikaCare,SUP026,42500,49000,0.15
 PRD012,KF-P0012,Multivitamin Anak Family,Obat Bebas,Tablet,AlkesPro,SUP054,12000,14500,0.2
-PRD013,KF-P0013,Glukosa Test Strip Family,Obat Generik,Sirup,MedikaCare,SUP032,66000,79000,0.2
-PRD014,KF-P0014,Gel Nyeri Otot,Perawatan Kesehatan,Gel,NaturaFit,SUP023,57000,65500,0.15
-PRD015,KF-P0015,Loratadine 10mg Plus,Alat Kesehatan,Masker,BioHealth,SUP018,18500,22000,0.2
+prd013,KF-P0013,Glukosa Test Strip Family,,Sirup,MedikaCare,SUP032,66000,79000,0.2
+ PRD014 ,KF-P0014,Gel Nyeri Otot,Perawatan Kesehatan,Gel,NaturaFit,SUP023,57000,65500,0.15
+ PRD015 ,KF-P0015,Loratadine 10mg Plus,Alat Kesehatan,Masker,BioHealth,SUP018,18500,22000,0.2
 PRD016,KF-P0016,Herbal Imun Family,Perawatan Kesehatan,Cairan,BioHealth,SUP071,67500,81000,0.2
-PRD017,KF-P0017,Sabun Antiseptik Family,Obat Generik,Sirup,VitaPlus,SUP097,60500,71500,0.18
-PRD018,KF-P0018,Herbal Imun Care,Perawatan Kesehatan,Cairan,HerbaNusa,SUP031,65000,84500,0.3
-PRD019,KF-P0019,Glukosa Test Strip Forte,Alat Kesehatan,Masker,SehatPlus,SUP043,33000,39000,0.18
-PRD020,KF-P0020,Amoxicillin 500mg Plus,Herbal,Kapsul,MedikaCare,SUP089,32500,39000,0.2
-PRD021,KF-P0021,Cetirizine 10mg Family,Perawatan Kesehatan,Krim,BioHealth,SUP070,55000,65000,0.18
-PRD022,KF-P0022,Vitamin D3 1000 IU Family,Alat Kesehatan,Masker,Kimia Farma,SUP075,52500,71000,0.35
-PRD023,KF-P0023,Betadine Solution,Herbal,Sirup,CareOne,SUP097,48000,56500,0.18
+ prd017 ,KF-P0017,Sabun Antiseptik Family,Obat Generik,Sirup,VitaPlus,SUP097,60500,71500,0.18
+ prd018 ,KF-P0018,Herbal Imun Care,Perawatan Kesehatan,Cairan,HerbaNusa,SUP031,65000,84500,0.3
+prd019,KF-P0019,Glukosa Test Strip Forte,Alat Kesehatan,Masker,SehatPlus,SUP043,33000,39000,0.18
+prd020,KF-P0020,Amoxicillin 500mg Plus,Herbal,Kapsul,MedikaCare,SUP089,32500,39000,0.2
+ PRD021 ,KF-P0021,Cetirizine 10mg Family,Perawatan Kesehatan,Krim,BioHealth,SUP070,55000,65000,0.18
+prd022,KF-P0022,Vitamin D3 1000 IU Family,Alat Kesehatan,Masker,Kimia Farma,SUP075,52500,71000,0.35
+PRD023,KF-P0023,Betadine Solution,,Sirup,CareOne,SUP097,48000,56500,0.18
 PRD024,KF-P0024,Betadine Solution Plus,Alat Kesehatan,Termometer,Kimia Farma,SUP063,37500,45000,0.2
 PRD025,KF-P0025,Plester Luka,Alat Kesehatan,Test Kit,BioHealth,SUP022,54500,71000,0.3
-PRD026,KF-P0026,Loratadine 10mg,Obat Generik,Sirup,Kimia Farma,SUP073,53000,66000,0.25
-PRD027,KF-P0027,Amoxicillin 500mg Family,Obat Bebas,Salep,CareOne,SUP034,26000,29000,0.12
-PRD028,KF-P0028,Salep Kulit Forte,Vitamin & Suplemen,Kapsul,HerbaNusa,SUP049,46000,62000,0.35
-PRD029,KF-P0029,Susu Kesehatan,Alat Kesehatan,Test Kit,NaturaFit,SUP096,63000,70500,0.12
-PRD030,KF-P0030,Multivitamin Anak,Obat Bebas,Kapsul,Kimia Farma,SUP084,11500,15500,0.35
-PRD031,KF-P0031,Vitamin D3 1000 IU,Obat Bebas,Sirup,BioHealth,SUP017,22500,26000,0.15
+ PRD026 ,KF-P0026,Loratadine 10mg,Obat Generik,Sirup,Kimia Farma,SUP073,53000,66000,0.25
+prd027,KF-P0027,Amoxicillin 500mg Family,Obat Bebas,Salep,CareOne,SUP034,26000,29000,0.12
+ PRD028 ,KF-P0028,Salep Kulit Forte,,Kapsul,HerbaNusa,SUP049,46000,62000,0.35
+prd029,KF-P0029,Susu Kesehatan,Alat Kesehatan,Test Kit,NaturaFit,SUP096,63000,70500,0.12
+prd030,KF-P0030,Multivitamin Anak,Obat Bebas,Kapsul,Kimia Farma,SUP084,11500,15500,0.35
+ prd031 ,KF-P0031,Vitamin D3 1000 IU,Obat Bebas,Sirup,BioHealth,SUP017,22500,26000,0.15
 PRD032,KF-P0032,Asam Mefenamat 500mg Plus,Perawatan Kesehatan,Gel,SehatPlus,SUP033,62500,81000,0.3
-PRD033,KF-P0033,Omeprazole 20mg,Obat Generik,Sirup,HerbaNusa,SUP021,17500,23500,0.35
+PRD033,KF-P0033,Omeprazole 20mg,,Sirup,HerbaNusa,SUP021,17500,23500,0.35
 PRD034,KF-P0034,Obat Flu Tablet Forte,Obat Bebas,Tablet,CareOne,SUP049,76500,99500,0.3
-PRD035,KF-P0035,Cetirizine 10mg Care,Perawatan Kesehatan,Krim,HerbaNusa,SUP090,34000,38000,0.12
-PRD036,KF-P0036,Suplemen Omega 3 Care,Perawatan Kesehatan,Gel,CareOne,SUP069,8000,9500,0.18
+prd035,KF-P0035,Cetirizine 10mg Care,Perawatan Kesehatan,Krim,HerbaNusa,SUP090,34000,38000,0.12
+ PRD036 ,KF-P0036,Suplemen Omega 3 Care,,Gel,CareOne,SUP069,8000,9500,0.18
 PRD037,KF-P0037,Cetirizine 10mg Care,Perawatan Kesehatan,Cairan,BioHealth,SUP054,46500,52000,0.12
 PRD038,KF-P0038,Termometer Digital,Obat Bebas,Salep,CareOne,SUP020,61500,80000,0.3
 PRD039,KF-P0039,Obat Batuk Sirup,Obat Generik,Sirup,BioHealth,SUP069,37500,47000,0.25
-PRD040,KF-P0040,Susu Kesehatan,Alat Kesehatan,Perban,VitaPlus,SUP042,78500,92500,0.18
-PRD041,KF-P0041,Gel Nyeri Otot Family,Obat Bebas,Kapsul,AlkesPro,SUP060,34000,46000,0.35
-PRD042,KF-P0042,Oralit Sachet Forte,Herbal,Minuman Herbal,MedikaCare,SUP042,6500,8000,0.2
-PRD043,KF-P0043,Termometer Digital Forte,Alat Kesehatan,Termometer,HerbaNusa,SUP077,46500,55000,0.18
+ PRD040 ,KF-P0040,Susu Kesehatan,Alat Kesehatan,Perban,VitaPlus,SUP042,78500,92500,0.18
+prd041,KF-P0041,Gel Nyeri Otot Family,Obat Bebas,Kapsul,AlkesPro,SUP060,34000,46000,0.35
+prd042,KF-P0042,Oralit Sachet Forte,Herbal,Minuman Herbal,MedikaCare,SUP042,6500,8000,0.2
+PRD043,KF-P0043,Termometer Digital Forte,,Termometer,HerbaNusa,SUP077,46500,55000,0.18
 PRD044,KF-P0044,Obat Batuk Sirup Plus,Herbal,Kapsul,CareOne,SUP093,13500,15500,0.15
-PRD045,KF-P0045,Glukosa Test Strip Family,Alat Kesehatan,Termometer,KF Generik,SUP003,65500,78500,0.2
-PRD046,KF-P0046,Oralit Sachet,Vitamin & Suplemen,Kapsul,AlkesPro,SUP085,34000,40000,0.18
+PRD045,KF-P0045,Glukosa Test Strip Family,,Termometer,KF Generik,SUP003,65500,78500,0.2
+prd046,KF-P0046,Oralit Sachet,,Kapsul,AlkesPro,SUP085,34000,40000,0.18
 PRD047,KF-P0047,Loratadine 10mg Care,Vitamin & Suplemen,Botol,NaturaFit,SUP096,47000,56500,0.2
-PRD048,KF-P0048,Glukosa Test Strip Family,Vitamin & Suplemen,Sachet,VitaPlus,SUP033,37500,44000,0.18
+ PRD048 ,KF-P0048,Glukosa Test Strip Family,Vitamin & Suplemen,Sachet,VitaPlus,SUP033,37500,44000,0.18
 PRD049,KF-P0049,Hand Sanitizer 100ml,Obat Bebas,Sirup,MedikaCare,SUP089,71500,96500,0.35
 PRD050,KF-P0050,Tensimeter Digital Family,Obat Generik,Tablet,NaturaFit,SUP076,38000,49500,0.3
-PRD051,KF-P0051,Antasida Doen Plus,Herbal,Sirup,MedikaCare,SUP047,40500,46500,0.15
+ PRD051 ,KF-P0051,Antasida Doen Plus,Herbal,Sirup,MedikaCare,SUP047,40500,46500,0.15
 PRD052,KF-P0052,Glukosa Test Strip Care,Vitamin & Suplemen,Tablet,Kimia Farma,SUP006,19000,22500,0.18
-PRD053,KF-P0053,Glukosa Test Strip Plus,Herbal,Sirup,AlkesPro,SUP002,65500,73500,0.12
-PRD054,KF-P0054,Betadine Solution Family,Vitamin & Suplemen,Botol,HerbaNusa,SUP007,46500,53500,0.15
+ prd053 ,KF-P0053,Glukosa Test Strip Plus,Herbal,Sirup,AlkesPro,SUP002,65500,73500,0.12
+ PRD054 ,KF-P0054,Betadine Solution Family,Vitamin & Suplemen,Botol,HerbaNusa,SUP007,46500,53500,0.15
 PRD055,KF-P0055,Susu Kesehatan,Alat Kesehatan,Masker,AlkesPro,SUP010,54000,65000,0.2
-PRD056,KF-P0056,Amoxicillin 500mg Plus,Perawatan Kesehatan,Gel,VitaPlus,SUP011,75000,88500,0.18
-PRD057,KF-P0057,Omeprazole 20mg Care,Obat Bebas,Salep,CareOne,SUP067,31500,42500,0.35
+ PRD056 ,KF-P0056,Amoxicillin 500mg Plus,,Gel,VitaPlus,SUP011,75000,88500,0.18
+prd057,KF-P0057,Omeprazole 20mg Care,Obat Bebas,Salep,CareOne,SUP067,31500,42500,0.35
 PRD058,KF-P0058,Masker Medis 3 Ply Care,Alat Kesehatan,Perban,AlkesPro,SUP073,57500,68000,0.18
 PRD059,KF-P0059,Herbal Imun Plus,Obat Bebas,Tablet,KF Generik,SUP085,30000,35500,0.18
 PRD060,KF-P0060,Vitamin C 500mg Care,Obat Generik,Tablet,CareOne,SUP001,12500,14500,0.15
 PRD061,KF-P0061,Masker Medis 3 Ply,Alat Kesehatan,Perban,HerbaNusa,SUP091,32500,38500,0.18
-PRD062,KF-P0062,Cetirizine 10mg,Perawatan Kesehatan,Spray,AlkesPro,SUP081,32500,38500,0.18
+prd062,KF-P0062,Cetirizine 10mg,,Spray,AlkesPro,SUP081,32500,38500,0.18
 PRD063,KF-P0063,Minyak Kayu Putih,Perawatan Kesehatan,Krim,MedikaCare,SUP083,72500,83500,0.15
 PRD064,KF-P0064,Cetirizine 10mg,Vitamin & Suplemen,Kapsul,AlkesPro,SUP040,24000,32500,0.35
 PRD065,KF-P0065,Salep Kulit,Perawatan Kesehatan,Cairan,CareOne,SUP039,62500,81000,0.3
-PRD066,KF-P0066,Salep Kulit,Vitamin & Suplemen,Botol,SehatPlus,SUP056,79500,89000,0.12
+prd066,KF-P0066,Salep Kulit,Vitamin & Suplemen,Botol,SehatPlus,SUP056,79500,89000,0.12
 PRD067,KF-P0067,Paracetamol 500mg,Herbal,Sirup,AlkesPro,SUP074,32000,41500,0.3
-PRD068,KF-P0068,Asam Mefenamat 500mg,Obat Bebas,Kapsul,BioHealth,SUP067,25000,30000,0.2
-PRD069,KF-P0069,Asam Mefenamat 500mg Family,Vitamin & Suplemen,Kapsul,SehatPlus,SUP061,65500,73500,0.12
-PRD070,KF-P0070,Hand Sanitizer 100ml,Alat Kesehatan,Test Kit,SehatPlus,SUP021,16000,21500,0.35
-PRD071,KF-P0071,Masker Medis 3 Ply,Alat Kesehatan,Perban,NaturaFit,SUP098,54000,73000,0.35
+ PRD068 ,KF-P0068,Asam Mefenamat 500mg,Obat Bebas,Kapsul,BioHealth,SUP067,25000,30000,0.2
+PRD069,KF-P0069,Asam Mefenamat 500mg Family,,Kapsul,SehatPlus,SUP061,65500,73500,0.12
+PRD070,KF-P0070,Hand Sanitizer 100ml,,Test Kit,SehatPlus,SUP021,16000,21500,0.35
+PRD071,KF-P0071,Masker Medis 3 Ply,,Perban,NaturaFit,SUP098,54000,73000,0.35
 PRD072,KF-P0072,Cetirizine 10mg Forte,Obat Bebas,Salep,CareOne,SUP015,35000,41500,0.18
-PRD073,KF-P0073,Plester Luka Care,Herbal,Kapsul,VitaPlus,SUP007,62000,74500,0.2
-PRD074,KF-P0074,Omeprazole 20mg Family,Herbal,Sirup,VitaPlus,SUP007,59500,80500,0.35
-PRD075,KF-P0075,Obat Flu Tablet Forte,Vitamin & Suplemen,Kapsul,KF Generik,SUP063,59000,76500,0.3
-PRD076,KF-P0076,Glukosa Test Strip Plus,Obat Bebas,Sirup,NaturaFit,SUP002,42500,53000,0.25
-PRD077,KF-P0077,Multivitamin Anak,Alat Kesehatan,Masker,MedikaCare,SUP083,62000,69500,0.12
+ PRD073 ,KF-P0073,Plester Luka Care,,Kapsul,VitaPlus,SUP007,62000,74500,0.2
+ prd074 ,KF-P0074,Omeprazole 20mg Family,,Sirup,VitaPlus,SUP007,59500,80500,0.35
+PRD075,KF-P0075,Obat Flu Tablet Forte,,Kapsul,KF Generik,SUP063,59000,76500,0.3
+PRD076,KF-P0076,Glukosa Test Strip Plus,,Sirup,NaturaFit,SUP002,42500,53000,0.25
+ PRD077 ,KF-P0077,Multivitamin Anak,Alat Kesehatan,Masker,MedikaCare,SUP083,62000,69500,0.12
 PRD078,KF-P0078,Obat Batuk Sirup,Alat Kesehatan,Test Kit,BioHealth,SUP062,37500,45000,0.2
 PRD079,KF-P0079,Loratadine 10mg Plus,Obat Generik,Kapsul,NaturaFit,SUP077,52000,60000,0.15
 PRD080,KF-P0080,Sabun Antiseptik,Perawatan Kesehatan,Krim,SehatPlus,SUP054,38000,51500,0.35
 PRD081,KF-P0081,Susu Kesehatan,Herbal,Sirup,AlkesPro,SUP039,39000,50500,0.3
 PRD082,KF-P0082,Betadine Solution Plus,Herbal,Minuman Herbal,SehatPlus,SUP062,60000,75000,0.25
-PRD083,KF-P0083,Salep Kulit Forte,Vitamin & Suplemen,Botol,AlkesPro,SUP031,27000,35000,0.3
+prd083,KF-P0083,Salep Kulit Forte,Vitamin & Suplemen,Botol,AlkesPro,SUP031,27000,35000,0.3
 PRD084,KF-P0084,Sabun Antiseptik Family,Alat Kesehatan,Termometer,BioHealth,SUP096,8500,10000,0.18
-PRD085,KF-P0085,Oralit Sachet,Perawatan Kesehatan,Spray,MedikaCare,SUP005,22000,26500,0.2
-PRD086,KF-P0086,Hand Sanitizer 100ml,Herbal,Minuman Herbal,BioHealth,SUP068,59000,66000,0.12
+ PRD085 ,KF-P0085,Oralit Sachet,Perawatan Kesehatan,Spray,MedikaCare,SUP005,22000,26500,0.2
+prd086,KF-P0086,Hand Sanitizer 100ml,Herbal,Minuman Herbal,BioHealth,SUP068,59000,66000,0.12
 PRD087,KF-P0087,Minyak Kayu Putih,Obat Bebas,Sirup,HerbaNusa,SUP061,22500,25000,0.12
 PRD088,KF-P0088,Kasa Steril,Vitamin & Suplemen,Botol,NaturaFit,SUP087,45000,61000,0.35
-PRD089,KF-P0089,Kasa Steril,Alat Kesehatan,Test Kit,Kimia Farma,SUP070,65000,88000,0.35
+PRD089,KF-P0089,Kasa Steril,,Test Kit,Kimia Farma,SUP070,65000,88000,0.35
 PRD090,KF-P0090,Multivitamin Anak,Herbal,Kapsul,KF Generik,SUP096,39500,45500,0.15
 PRD091,KF-P0091,Herbal Imun,Alat Kesehatan,Masker,HerbaNusa,SUP022,15500,18500,0.2
 PRD092,KF-P0092,Hand Sanitizer 100ml,Obat Bebas,Tablet,CareOne,SUP048,40500,48000,0.18
 PRD093,KF-P0093,Obat Batuk Sirup Family,Obat Generik,Tablet,MedikaCare,SUP024,75000,97500,0.3
 PRD094,KF-P0094,Omeprazole 20mg Family,Obat Generik,Tablet,MedikaCare,SUP075,33500,40000,0.2
-PRD095,KF-P0095,Kasa Steril Forte,Obat Generik,Kapsul,Kimia Farma,SUP086,61500,72500,0.18
+PRD095,KF-P0095,Kasa Steril Forte,,Kapsul,Kimia Farma,SUP086,61500,72500,0.18
 PRD096,KF-P0096,Plester Luka Care,Alat Kesehatan,Test Kit,SehatPlus,SUP057,23000,26000,0.12
-PRD097,KF-P0097,Kasa Steril Family,Herbal,Sirup,VitaPlus,SUP039,35000,42000,0.2
-PRD098,KF-P0098,Antasida Doen Plus,Alat Kesehatan,Perban,AlkesPro,SUP046,51500,64500,0.25
-PRD099,KF-P0099,Paracetamol 500mg,Vitamin & Suplemen,Sachet,AlkesPro,SUP002,53500,63000,0.18
-PRD100,KF-P0100,Obat Flu Tablet Care,Perawatan Kesehatan,Gel,VitaPlus,SUP037,66500,90000,0.35
-PRD101,KF-P0101,Multivitamin Anak,Herbal,Sirup,MedikaCare,SUP033,27000,34000,0.25
-PRD102,KF-P0102,Gel Nyeri Otot,Perawatan Kesehatan,Gel,Kimia Farma,SUP057,8000,9500,0.18
+PRD097,KF-P0097,Kasa Steril Family,,Sirup,VitaPlus,SUP039,35000,42000,0.2
+ prd098 ,KF-P0098,Antasida Doen Plus,Alat Kesehatan,Perban,AlkesPro,SUP046,51500,64500,0.25
+ PRD099 ,KF-P0099,Paracetamol 500mg,Vitamin & Suplemen,Sachet,AlkesPro,SUP002,53500,63000,0.18
+prd100,KF-P0100,Obat Flu Tablet Care,,Gel,VitaPlus,SUP037,66500,90000,0.35
+PRD101,KF-P0101,Multivitamin Anak,,Sirup,MedikaCare,SUP033,27000,34000,0.25
+prd102,KF-P0102,Gel Nyeri Otot,Perawatan Kesehatan,Gel,Kimia Farma,SUP057,8000,9500,0.18
 PRD103,KF-P0103,Tensimeter Digital Plus,Herbal,Sirup,CareOne,SUP042,14500,17000,0.18
 PRD104,KF-P0104,Amoxicillin 500mg Care,Obat Generik,Tablet,HerbaNusa,SUP065,49500,62000,0.25
 PRD105,KF-P0105,Obat Flu Tablet Family,Obat Generik,Kapsul,KF Generik,SUP044,40500,52500,0.3
-PRD106,KF-P0106,Amoxicillin 500mg Plus,Alat Kesehatan,Masker,SehatPlus,SUP072,53500,72000,0.35
+prd106,KF-P0106,Amoxicillin 500mg Plus,Alat Kesehatan,Masker,SehatPlus,SUP072,53500,72000,0.35
 PRD107,KF-P0107,Paracetamol 500mg Forte,Obat Bebas,Salep,SehatPlus,SUP059,71500,80000,0.12
 PRD108,KF-P0108,Asam Mefenamat 500mg Family,Perawatan Kesehatan,Cairan,VitaPlus,SUP087,50500,56500,0.12
-PRD109,KF-P0109,Omeprazole 20mg Care,Alat Kesehatan,Masker,KF Generik,SUP029,44500,55500,0.25
+ PRD109 ,KF-P0109,Omeprazole 20mg Care,Alat Kesehatan,Masker,KF Generik,SUP029,44500,55500,0.25
 PRD110,KF-P0110,Obat Flu Tablet,Perawatan Kesehatan,Spray,KF Generik,SUP053,41500,54000,0.3
-PRD111,KF-P0111,Ibuprofen 200mg Forte,Obat Generik,Tablet,VitaPlus,SUP013,66000,74000,0.12
+prd111,KF-P0111,Ibuprofen 200mg Forte,Obat Generik,Tablet,VitaPlus,SUP013,66000,74000,0.12
 PRD112,KF-P0112,Oralit Sachet Family,Herbal,Kapsul,NaturaFit,SUP096,50000,65000,0.3
-PRD113,KF-P0113,Gel Nyeri Otot Family,Alat Kesehatan,Termometer,AlkesPro,SUP063,15500,21000,0.35
-PRD114,KF-P0114,Ibuprofen 200mg,Alat Kesehatan,Test Kit,BioHealth,SUP057,50000,57500,0.15
-PRD115,KF-P0115,Antasida Doen,Obat Generik,Kapsul,SehatPlus,SUP083,50000,62500,0.25
-PRD116,KF-P0116,Zinc Tablet Plus,Obat Bebas,Salep,KF Generik,SUP059,18500,25000,0.35
+prd113,KF-P0113,Gel Nyeri Otot Family,Alat Kesehatan,Termometer,AlkesPro,SUP063,15500,21000,0.35
+ PRD114 ,KF-P0114,Ibuprofen 200mg,Alat Kesehatan,Test Kit,BioHealth,SUP057,50000,57500,0.15
+prd115,KF-P0115,Antasida Doen,Obat Generik,Kapsul,SehatPlus,SUP083,50000,62500,0.25
+prd116,KF-P0116,Zinc Tablet Plus,Obat Bebas,Salep,KF Generik,SUP059,18500,25000,0.35
 PRD117,KF-P0117,Kasa Steril,Perawatan Kesehatan,Krim,SehatPlus,SUP007,79000,88500,0.12
-PRD118,KF-P0118,Suplemen Omega 3 Care,Obat Generik,Tablet,NaturaFit,SUP098,29000,32500,0.12
-PRD119,KF-P0119,Vitamin D3 1000 IU Plus,Obat Generik,Sirup,AlkesPro,SUP019,45000,61000,0.35
+ PRD118 ,KF-P0118,Suplemen Omega 3 Care,Obat Generik,Tablet,NaturaFit,SUP098,29000,32500,0.12
+prd119,KF-P0119,Vitamin D3 1000 IU Plus,Obat Generik,Sirup,AlkesPro,SUP019,45000,61000,0.35
 PRD120,KF-P0120,Sabun Antiseptik Plus,Obat Bebas,Kapsul,MedikaCare,SUP033,19500,24500,0.25

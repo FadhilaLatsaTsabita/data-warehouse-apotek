@@ -1,121 +1,123 @@
 KaryawanID,NIK,NamaKaryawan,JenisKelamin,Jabatan,Departemen,ApotekID,StatusKepegawaian
-KRY001,KF202600001,Ilham Saputra,L,Admin Cabang,Administrasi,APT053,Magang
+KRY001,KF202600001,Ilham Saputra,L,,Administrasi,APT053,Magang
 KRY002,KF202600002,Fikri Utami,L,Asisten Apoteker,Farmasi,APT027,Kontrak
 KRY003,KF202600003,Ilham Hidayat,L,Kasir,Operasional Apotek,APT069,Tetap
-KRY004,KF202600004,Hendra Fauzi,L,Admin Cabang,Administrasi,APT078,Tetap
-KRY005,KF202600005,Bayu Azzahra,L,Admin Cabang,Administrasi,APT028,Magang
+kry004,KF202600004,Hendra Fauzi,L,Admin Cabang,Administrasi,APT078,Tetap
+kry005,KF202600005,Bayu Azzahra,L,Admin Cabang,Administrasi,APT028,Magang
 KRY006,KF202600006,Doni Kusuma,L,Kasir,Operasional Apotek,APT028,Tetap
-KRY007,KF202600007,Joko Utami,L,Admin Cabang,Administrasi,APT091,Tetap
+KRY007,KF202600007,Joko Utami,L,Admin Cabang,Administrasi,apt091,Tetap
 KRY008,KF202600008,Fitri Mahendra,P,Asisten Apoteker,Farmasi,APT100,Kontrak
 KRY009,KF202600009,Wulan Mahendra,P,Asisten Apoteker,Farmasi,APT040,Kontrak
 KRY010,KF202600010,Dina Sari,P,Supervisor Cabang,Operasional Apotek,APT013,Magang
-KRY011,KF202600011,Putri Hidayat,P,Asisten Apoteker,Farmasi,APT053,Tetap
+KRY011,KF202600011,Putri Hidayat,P,,Farmasi,APT053,Tetap
 KRY012,KF202600012,Rizky Pratama,L,Asisten Apoteker,Farmasi,APT071,Magang
-KRY013,KF202600013,Maya Santoso,P,Asisten Apoteker,Farmasi,APT030,Magang
-KRY014,KF202600014,Joko Mahendra,L,Asisten Apoteker,Farmasi,APT033,Magang
-KRY015,KF202600015,Wulan Ramadhan,P,Asisten Apoteker,Farmasi,APT022,Tetap
-KRY016,KF202600016,Nabila Mahendra,P,Kasir,Operasional Apotek,APT068,Tetap
-KRY017,KF202600017,Budi Pratama,L,Supervisor Cabang,Operasional Apotek,APT018,Tetap
-KRY018,KF202600018,Rizky Pratama,L,Apoteker,Farmasi,APT065,Magang
-KRY019,KF202600019,Rani Pangestu,P,Admin Cabang,Administrasi,APT062,Magang
+kry013,KF202600013,Maya Santoso,P,Asisten Apoteker,Farmasi,APT030,Magang
+kry014,KF202600014,Joko Mahendra,L,Asisten Apoteker,Farmasi,APT033,Magang
+KRY015,KF202600015,Wulan Ramadhan,P,,Farmasi,APT022,Tetap
+KRY016,KF202600016,Nabila Mahendra,P,Kasir,Operasional Apotek,apt068,Tetap
+kry017,KF202600017,Budi Pratama,L,Supervisor Cabang,Operasional Apotek,apt018,Tetap
+kry018,KF202600018,Rizky Pratama,L,Apoteker,Farmasi,APT065,Magang
+KRY019,KF202600019,Rani Pangestu,P,,Administrasi,APT062,Magang
 KRY020,KF202600020,Andi Mahendra,L,Admin Cabang,Administrasi,APT053,Tetap
-KRY021,KF202600021,Kevin Maulana,L,Admin Cabang,Administrasi,APT037,Tetap
+kry021,KF202600021,Kevin Maulana,L,Admin Cabang,Administrasi,APT037,Tetap
 KRY022,KF202600022,Nabila Lestari,P,Kasir,Operasional Apotek,APT068,Tetap
-KRY023,KF202600023,Bayu Pangestu,L,Admin Cabang,Administrasi,APT033,Kontrak
-KRY024,KF202600024,Tiara Wijaya,P,Asisten Apoteker,Farmasi,APT052,Magang
-KRY025,KF202600025,Rangga Kusuma,L,Kasir,Operasional Apotek,APT084,Tetap
-KRY026,KF202600026,Fikri Fauzi,L,Supervisor Cabang,Operasional Apotek,APT071,Magang
+KRY023,KF202600023,Bayu Pangestu,L,Admin Cabang,Administrasi,apt033,Kontrak
+KRY024,KF202600024,Tiara Wijaya,P,Asisten Apoteker,Farmasi,apt052,Magang
+kry025,KF202600025,Rangga Kusuma,L,Kasir,Operasional Apotek,APT084,Tetap
+kry026,KF202600026,Fikri Fauzi,L,Supervisor Cabang,Operasional Apotek,APT071,Magang
 KRY027,KF202600027,Andi Ramadhan,L,Kasir,Operasional Apotek,APT064,Magang
-KRY028,KF202600028,Farah Lestari,P,Admin Cabang,Administrasi,APT006,Tetap
+KRY028,KF202600028,Farah Lestari,P,,Administrasi,APT006,Tetap
 KRY029,KF202600029,Miko Sari,L,Asisten Apoteker,Farmasi,APT006,Tetap
-KRY030,KF202600030,Elsa Azzahra,P,Kasir,Operasional Apotek,APT023,Kontrak
-KRY031,KF202600031,Bayu Azzahra,L,Apoteker,Farmasi,APT097,Magang
-KRY032,KF202600032,Arif Ramadhan,L,Admin Cabang,Administrasi,APT031,Magang
+kry030,KF202600030,Elsa Azzahra,P,Kasir,Operasional Apotek,apt023,Kontrak
+KRY031,KF202600031,Bayu Azzahra,L,,Farmasi,APT097,Magang
+KRY032,KF202600032,Arif Ramadhan,L,Admin Cabang,Administrasi,apt031,Magang
 KRY033,KF202600033,Tiara Permata,P,Kasir,Operasional Apotek,APT065,Kontrak
 KRY034,KF202600034,Rafi Amelia,L,Apoteker,Farmasi,APT010,Kontrak
 KRY035,KF202600035,Nadia Pratama,P,Asisten Apoteker,Farmasi,APT058,Magang
 KRY036,KF202600036,Eko Mahendra,L,Supervisor Cabang,Operasional Apotek,APT056,Tetap
 KRY037,KF202600037,Ayu Pangestu,P,Asisten Apoteker,Farmasi,APT032,Tetap
-KRY038,KF202600038,Hendra Permata,L,Supervisor Cabang,Operasional Apotek,APT092,Tetap
-KRY039,KF202600039,Nadia Hidayat,P,Kasir,Operasional Apotek,APT012,Tetap
+kry038,KF202600038,Hendra Permata,L,Supervisor Cabang,Operasional Apotek,APT092,Tetap
+kry039,KF202600039,Nadia Hidayat,P,Kasir,Operasional Apotek,apt012,Tetap
 KRY040,KF202600040,Wulan Hidayat,P,Asisten Apoteker,Farmasi,APT014,Tetap
 KRY041,KF202600041,Fajar Amelia,L,Supervisor Cabang,Operasional Apotek,APT072,Magang
-KRY042,KF202600042,Andi Wijaya,L,Asisten Apoteker,Farmasi,APT071,Tetap
+kry042,KF202600042,Andi Wijaya,L,Asisten Apoteker,Farmasi,APT071,Tetap
 KRY043,KF202600043,Tiara Pratama,P,Asisten Apoteker,Farmasi,APT053,Magang
 KRY044,KF202600044,Lutfi Utami,L,Admin Cabang,Administrasi,APT067,Tetap
-KRY045,KF202600045,Nabila Permata,P,Asisten Apoteker,Farmasi,APT039,Kontrak
+KRY045,KF202600045,Nabila Permata,P,Asisten Apoteker,Farmasi,apt039,Kontrak
 KRY046,KF202600046,Maya Wijaya,P,Apoteker,Farmasi,APT056,Kontrak
 KRY047,KF202600047,Intan Sari,P,Kasir,Operasional Apotek,APT047,Kontrak
-KRY048,KF202600048,Joko Pangestu,L,Admin Cabang,Administrasi,APT026,Magang
+KRY048,KF202600048,Joko Pangestu,L,Admin Cabang,Administrasi,apt026,Magang
 KRY049,KF202600049,Rizky Kusuma,L,Kasir,Operasional Apotek,APT051,Kontrak
 KRY050,KF202600050,Nadia Nugraha,P,Asisten Apoteker,Farmasi,APT056,Tetap
 KRY051,KF202600051,Nadia Pangestu,P,Apoteker,Farmasi,APT062,Kontrak
 KRY052,KF202600052,Fikri Ananda,L,Asisten Apoteker,Farmasi,APT095,Magang
-KRY053,KF202600053,Doni Fauzi,L,Asisten Apoteker,Farmasi,APT051,Kontrak
-KRY054,KF202600054,Miko Santoso,L,Admin Cabang,Administrasi,APT070,Tetap
+KRY053,KF202600053,Doni Fauzi,L,Asisten Apoteker,Farmasi,apt051,Kontrak
+kry054,KF202600054,Miko Santoso,L,,Administrasi,apt070,Tetap
 KRY055,KF202600055,Ilham Santoso,L,Supervisor Cabang,Operasional Apotek,APT038,Tetap
-KRY056,KF202600056,Citra Permata,P,Asisten Apoteker,Farmasi,APT031,Kontrak
-KRY057,KF202600057,Gilang Fauzi,L,Kasir,Operasional Apotek,APT058,Magang
+kry056,KF202600056,Citra Permata,P,Asisten Apoteker,Farmasi,apt031,Kontrak
+kry057,KF202600057,Gilang Fauzi,L,Kasir,Operasional Apotek,apt058,Magang
 KRY058,KF202600058,Elsa Oktavia,P,Supervisor Cabang,Operasional Apotek,APT070,Tetap
 KRY059,KF202600059,Elsa Pangestu,P,Kasir,Operasional Apotek,APT014,Tetap
 KRY060,KF202600060,Nabila Pangestu,P,Kasir,Operasional Apotek,APT073,Magang
 KRY061,KF202600061,Vina Lestari,P,Kasir,Operasional Apotek,APT013,Kontrak
-KRY062,KF202600062,Kevin Oktavia,L,Admin Cabang,Administrasi,APT075,Tetap
+KRY062,KF202600062,Kevin Oktavia,L,,Administrasi,APT075,Tetap
 KRY063,KF202600063,Salsa Fauzi,P,Supervisor Cabang,Operasional Apotek,APT099,Tetap
 KRY064,KF202600064,Sinta Sari,P,Kasir,Operasional Apotek,APT038,Magang
 KRY065,KF202600065,Rafi Permata,L,Asisten Apoteker,Farmasi,APT040,Kontrak
 KRY066,KF202600066,Putri Oktavia,P,Supervisor Cabang,Operasional Apotek,APT045,Magang
-KRY067,KF202600067,Ilham Nugraha,L,Asisten Apoteker,Farmasi,APT009,Kontrak
-KRY068,KF202600068,Rafi Pratama,L,Asisten Apoteker,Farmasi,APT083,Tetap
+KRY067,KF202600067,Ilham Nugraha,L,Asisten Apoteker,Farmasi,apt009,Kontrak
+kry068,KF202600068,Rafi Pratama,L,,Farmasi,APT083,Tetap
 KRY069,KF202600069,Rangga Oktavia,L,Apoteker,Farmasi,APT071,Tetap
 KRY070,KF202600070,Elsa Amelia,P,Supervisor Cabang,Operasional Apotek,APT030,Magang
-KRY071,KF202600071,Fajar Amelia,L,Supervisor Cabang,Operasional Apotek,APT004,Tetap
-KRY072,KF202600072,Farah Amelia,P,Supervisor Cabang,Operasional Apotek,APT001,Tetap
+kry071,KF202600071,Fajar Amelia,L,Supervisor Cabang,Operasional Apotek,APT004,Tetap
+kry072,KF202600072,Farah Amelia,P,Supervisor Cabang,Operasional Apotek,APT001,Tetap
 KRY073,KF202600073,Hendra Wijaya,L,Admin Cabang,Administrasi,APT014,Tetap
-KRY074,KF202600074,Nadia Santoso,P,Supervisor Cabang,Operasional Apotek,APT015,Kontrak
+KRY074,KF202600074,Nadia Santoso,P,Supervisor Cabang,Operasional Apotek,apt015,Kontrak
 KRY075,KF202600075,Dina Ananda,P,Admin Cabang,Administrasi,APT050,Magang
-KRY076,KF202600076,Eko Hidayat,L,Supervisor Cabang,Operasional Apotek,APT080,Tetap
+kry076,KF202600076,Eko Hidayat,L,Supervisor Cabang,Operasional Apotek,APT080,Tetap
 KRY077,KF202600077,Gita Azzahra,P,Kasir,Operasional Apotek,APT087,Tetap
-KRY078,KF202600078,Dewi Utami,P,Asisten Apoteker,Farmasi,APT015,Tetap
+kry078,KF202600078,Dewi Utami,P,Asisten Apoteker,Farmasi,APT015,Tetap
 KRY079,KF202600079,Maya Oktavia,P,Supervisor Cabang,Operasional Apotek,APT054,Tetap
 KRY080,KF202600080,Vina Ramadhan,P,Supervisor Cabang,Operasional Apotek,APT082,Tetap
 KRY081,KF202600081,Joko Kusuma,L,Apoteker,Farmasi,APT024,Kontrak
 KRY082,KF202600082,Gita Saputra,P,Asisten Apoteker,Farmasi,APT002,Magang
-KRY083,KF202600083,Bayu Fauzi,L,Admin Cabang,Administrasi,APT065,Magang
+kry083,KF202600083,Bayu Fauzi,L,Admin Cabang,Administrasi,apt065,Magang
 KRY084,KF202600084,Citra Amelia,P,Supervisor Cabang,Operasional Apotek,APT063,Tetap
-KRY085,KF202600085,Miko Pratama,L,Apoteker,Farmasi,APT038,Tetap
-KRY086,KF202600086,Fitri Mahendra,P,Asisten Apoteker,Farmasi,APT022,Magang
+KRY085,KF202600085,Miko Pratama,L,Apoteker,Farmasi,apt038,Tetap
+KRY086,KF202600086,Fitri Mahendra,P,,Farmasi,APT022,Magang
 KRY087,KF202600087,Elsa Oktavia,P,Kasir,Operasional Apotek,APT074,Tetap
 KRY088,KF202600088,Elsa Hidayat,P,Admin Cabang,Administrasi,APT097,Tetap
-KRY089,KF202600089,Elsa Santoso,P,Supervisor Cabang,Operasional Apotek,APT014,Tetap
+kry089,KF202600089,Elsa Santoso,P,Supervisor Cabang,Operasional Apotek,APT014,Tetap
 KRY090,KF202600090,Rani Nugraha,P,Asisten Apoteker,Farmasi,APT045,Tetap
-KRY091,KF202600091,Dewi Utami,P,Apoteker,Farmasi,APT095,Kontrak
+kry091,KF202600091,Dewi Utami,P,Apoteker,Farmasi,apt095,Kontrak
 KRY092,KF202600092,Nabila Pangestu,P,Apoteker,Farmasi,APT027,Tetap
-KRY093,KF202600093,Miko Hidayat,L,Admin Cabang,Administrasi,APT036,Tetap
-KRY094,KF202600094,Intan Kusuma,P,Admin Cabang,Administrasi,APT035,Tetap
+kry093,KF202600093,Miko Hidayat,L,Admin Cabang,Administrasi,APT036,Tetap
+KRY094,KF202600094,Intan Kusuma,P,,Administrasi,apt035,Tetap
 KRY095,KF202600095,Gilang Saputra,L,Asisten Apoteker,Farmasi,APT084,Tetap
 KRY096,KF202600096,Rangga Permata,L,Asisten Apoteker,Farmasi,APT032,Magang
-KRY097,KF202600097,Maya Azzahra,P,Asisten Apoteker,Farmasi,APT081,Magang
+kry097,KF202600097,Maya Azzahra,P,Asisten Apoteker,Farmasi,APT081,Magang
 KRY098,KF202600098,Wulan Wijaya,P,Kasir,Operasional Apotek,APT052,Kontrak
-KRY099,KF202600099,Wulan Sari,P,Asisten Apoteker,Farmasi,APT075,Tetap
+kry099,KF202600099,Wulan Sari,P,Asisten Apoteker,Farmasi,apt075,Tetap
 KRY100,KF202600100,Ilham Hidayat,L,Kasir,Operasional Apotek,APT069,Magang
 KRY101,KF202600101,Gilang Santoso,L,Supervisor Cabang,Operasional Apotek,APT035,Kontrak
-KRY102,KF202600102,Nadia Mahendra,P,Admin Cabang,Administrasi,APT017,Magang
-KRY103,KF202600103,Rani Saputra,P,Kasir,Operasional Apotek,APT081,Magang
+kry102,KF202600102,Nadia Mahendra,P,Admin Cabang,Administrasi,APT017,Magang
+KRY103,KF202600103,Rani Saputra,P,,Operasional Apotek,APT081,Magang
 KRY104,KF202600104,Rafi Ramadhan,L,Supervisor Cabang,Operasional Apotek,APT059,Tetap
-KRY105,KF202600105,Putri Permata,P,Asisten Apoteker,Farmasi,APT021,Kontrak
-KRY106,KF202600106,Eko Maulana,L,Kasir,Operasional Apotek,APT048,Tetap
-KRY107,KF202600107,Fikri Kusuma,L,Apoteker,Farmasi,APT055,Tetap
-KRY108,KF202600108,Andi Santoso,L,Supervisor Cabang,Operasional Apotek,APT010,Tetap
+KRY105,KF202600105,Putri Permata,P,Asisten Apoteker,Farmasi,apt021,Kontrak
+KRY106,KF202600106,Eko Maulana,L,Kasir,Operasional Apotek,apt048,Tetap
+kry107,KF202600107,Fikri Kusuma,L,Apoteker,Farmasi,apt055,Tetap
+KRY108,KF202600108,Andi Santoso,L,,Operasional Apotek,apt010,Tetap
 KRY109,KF202600109,Kevin Nugraha,L,Kasir,Operasional Apotek,APT002,Kontrak
 KRY110,KF202600110,Gilang Permata,L,Supervisor Cabang,Operasional Apotek,APT010,Tetap
-KRY111,KF202600111,Ayu Lestari,P,Kasir,Operasional Apotek,APT041,Kontrak
+KRY111,KF202600111,Ayu Lestari,P,,Operasional Apotek,APT041,Kontrak
 KRY112,KF202600112,Maya Fauzi,P,Apoteker,Farmasi,APT083,Tetap
 KRY113,KF202600113,Kevin Azzahra,L,Kasir,Operasional Apotek,APT079,Tetap
 KRY114,KF202600114,Salsa Santoso,P,Apoteker,Farmasi,APT053,Magang
-KRY115,KF202600115,Dimas Lestari,L,Apoteker,Farmasi,APT097,Tetap
-KRY116,KF202600116,Salsa Amelia,P,Asisten Apoteker,Farmasi,APT018,Tetap
+kry115,KF202600115,Dimas Lestari,L,Apoteker,Farmasi,APT097,Tetap
+kry116,KF202600116,Salsa Amelia,P,Asisten Apoteker,Farmasi,APT018,Tetap
 KRY117,KF202600117,Ayu Utami,P,Admin Cabang,Administrasi,APT077,Kontrak
-KRY118,KF202600118,Arif Santoso,L,Admin Cabang,Administrasi,APT078,Tetap
-KRY119,KF202600119,Intan Saputra,P,Apoteker,Farmasi,APT064,Magang
-KRY120,KF202600120,Rangga Sari,L,Admin Cabang,Administrasi,APT010,Tetap
+kry118,KF202600118,Arif Santoso,L,Admin Cabang,Administrasi,APT078,Tetap
+KRY119,KF202600119,Intan Saputra,P,Apoteker,Farmasi,apt064,Magang
+KRY120,KF202600120,Rangga Sari,L,Admin Cabang,Administrasi,apt010,Tetap
+KRY008,KF202600008,Fitri Mahendra,P,Asisten Apoteker,Farmasi,APT100,Kontrak
+KRY027,KF202600027,Andi Ramadhan,L,Kasir,Operasional Apotek,APT064,Magang
