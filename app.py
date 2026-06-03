@@ -11,7 +11,7 @@ import plotly.express as px
 from sqlalchemy import create_engine
 
 # Masukkan Connection String dari Supabase
-engine = create_engine(DB_URL)
+engine = create_engine(st.secrets["DB_URL"])
 
 # ============================================================
 # PAGE CONFIG
