@@ -1,0 +1,151 @@
+PelangganID,KodePelanggan,NamaPelanggan,JenisKelamin,Usia,KelompokUsia,Kota,Provinsi,TipePelanggan
+PLG001,CUST00001,Sinta Hidayat,P,28,25-35,Surakarta,Jawa Tengah,Member
+PLG002,CUST00002,Citra Santoso,P,25,25-35,Semarang,Jawa Tengah,Member
+PLG003,CUST00003,Arif Lestari,L,66,56+,Padang,Sumatera Barat,BPJS/Asuransi
+PLG004,CUST00004,Doni Pangestu,L,55,46-55,Bogor,Jawa Barat,Corporate
+PLG005,CUST00005,Fajar Ramadhan,L,68,56+,Balikpapan,Kalimantan Timur,Member
+PLG006,CUST00006,Rani Amelia,P,60,56+,Malang,Jawa Timur,Member
+PLG007,CUST00007,Gita Kusuma,P,31,25-35,Medan,Sumatera Utara,BPJS/Asuransi
+PLG008,CUST00008,Arif Sari,L,40,36-45,Tangerang,Banten,BPJS/Asuransi
+PLG009,CUST00009,Wulan Kusuma,P,49,46-55,Sidoarjo,Jawa Timur,BPJS/Asuransi
+PLG010,CUST00010,Nabila Santoso,P,25,25-35,Balikpapan,Kalimantan Timur,Member
+PLG011,CUST00011,Joko Hidayat,L,23,17-24,Pekanbaru,Riau,BPJS/Asuransi
+PLG012,CUST00012,Arif Wijaya,L,34,25-35,Depok,Jawa Barat,Corporate
+PLG013,CUST00013,Gilang Wijaya,L,69,56+,Semarang,Jawa Tengah,Corporate
+PLG014,CUST00014,Sinta Amelia,P,42,36-45,Jakarta Selatan,DKI Jakarta,BPJS/Asuransi
+PLG015,CUST00015,Fitri Fauzi,P,40,36-45,Jakarta Timur,DKI Jakarta,Member
+PLG016,CUST00016,Doni Lestari,L,67,56+,Surabaya,Jawa Timur,Member
+PLG017,CUST00017,Budi Kusuma,L,61,56+,Palembang,Sumatera Selatan,Member
+PLG018,CUST00018,Wulan Pangestu,P,22,17-24,Bandung,Jawa Barat,Umum
+PLG019,CUST00019,Putri Permata,P,63,56+,Pekanbaru,Riau,BPJS/Asuransi
+PLG020,CUST00020,Dewi Kusuma,P,36,36-45,Semarang,Jawa Tengah,Umum
+PLG021,CUST00021,Rangga Amelia,L,46,46-55,Balikpapan,Kalimantan Timur,Umum
+PLG022,CUST00022,Joko Pangestu,L,18,17-24,Pekanbaru,Riau,BPJS/Asuransi
+PLG023,CUST00023,Rizky Kusuma,L,17,17-24,Denpasar,Bali,BPJS/Asuransi
+PLG024,CUST00024,Fitri Azzahra,P,28,25-35,Denpasar,Bali,Umum
+PLG025,CUST00025,Ayu Oktavia,P,49,46-55,Pekanbaru,Riau,BPJS/Asuransi
+PLG026,CUST00026,Fikri Sari,L,57,56+,Jakarta Selatan,DKI Jakarta,Corporate
+PLG027,CUST00027,Laras Pratama,P,67,56+,Malang,Jawa Timur,Umum
+PLG028,CUST00028,Fitri Lestari,P,64,56+,Makassar,Sulawesi Selatan,Member
+PLG029,CUST00029,Budi Hidayat,L,38,36-45,Pekanbaru,Riau,Member
+PLG030,CUST00030,Citra Ramadhan,P,21,17-24,Bogor,Jawa Barat,Corporate
+PLG031,CUST00031,Arif Santoso,L,67,56+,Jakarta Selatan,DKI Jakarta,Member
+PLG032,CUST00032,Doni Kusuma,L,42,36-45,Padang,Sumatera Barat,BPJS/Asuransi
+PLG033,CUST00033,Laras Saputra,P,35,25-35,Tangerang,Banten,Member
+PLG034,CUST00034,Doni Maulana,L,68,56+,Bekasi,Jawa Barat,Member
+PLG035,CUST00035,Tiara Nugraha,P,38,36-45,Sidoarjo,Jawa Timur,Member
+PLG036,CUST00036,Citra Hidayat,P,34,25-35,Padang,Sumatera Barat,Umum
+PLG037,CUST00037,Ayu Amelia,P,69,56+,Balikpapan,Kalimantan Timur,Member
+PLG038,CUST00038,Nadia Lestari,P,37,36-45,Jakarta Timur,DKI Jakarta,Member
+PLG039,CUST00039,Wulan Pangestu,P,27,25-35,Denpasar,Bali,Corporate
+PLG040,CUST00040,Wulan Saputra,P,56,56+,Malang,Jawa Timur,Corporate
+PLG041,CUST00041,Rani Wijaya,P,40,36-45,Sidoarjo,Jawa Timur,BPJS/Asuransi
+PLG042,CUST00042,Andi Permata,L,60,56+,Balikpapan,Kalimantan Timur,Corporate
+PLG043,CUST00043,Rizky Wijaya,L,66,56+,Semarang,Jawa Tengah,Member
+PLG044,CUST00044,Tiara Azzahra,P,55,46-55,Jakarta Selatan,DKI Jakarta,Member
+PLG045,CUST00045,Salsa Hidayat,P,65,56+,Medan,Sumatera Utara,Umum
+PLG046,CUST00046,Kevin Hidayat,L,37,36-45,Sidoarjo,Jawa Timur,Member
+PLG047,CUST00047,Rafi Pratama,L,48,46-55,Depok,Jawa Barat,BPJS/Asuransi
+PLG048,CUST00048,Elsa Lestari,P,66,56+,Yogyakarta,DI Yogyakarta,Member
+PLG049,CUST00049,Putri Pangestu,P,61,56+,Surakarta,Jawa Tengah,Corporate
+PLG050,CUST00050,Rafi Permata,L,45,36-45,Jakarta Timur,DKI Jakarta,Member
+PLG051,CUST00051,Ayu Ananda,P,62,56+,Malang,Jawa Timur,Umum
+PLG052,CUST00052,Intan Ramadhan,P,67,56+,Depok,Jawa Barat,Member
+PLG053,CUST00053,Rafi Santoso,L,32,25-35,Bogor,Jawa Barat,Corporate
+PLG054,CUST00054,Eko Mahendra,L,40,36-45,Makassar,Sulawesi Selatan,Corporate
+PLG055,CUST00055,Nanda Wijaya,L,36,36-45,Jakarta Timur,DKI Jakarta,Corporate
+PLG056,CUST00056,Dina Amelia,P,69,56+,Denpasar,Bali,BPJS/Asuransi
+PLG057,CUST00057,Rizky Ananda,L,45,36-45,Jakarta Timur,DKI Jakarta,Corporate
+PLG058,CUST00058,Maya Mahendra,P,28,25-35,Makassar,Sulawesi Selatan,Member
+PLG059,CUST00059,Dina Saputra,P,50,46-55,Bekasi,Jawa Barat,Member
+PLG060,CUST00060,Nabila Ramadhan,P,62,56+,Surabaya,Jawa Timur,Member
+PLG061,CUST00061,Dina Kusuma,P,33,25-35,Jakarta Timur,DKI Jakarta,Member
+PLG062,CUST00062,Maya Kusuma,P,51,46-55,Balikpapan,Kalimantan Timur,Umum
+PLG063,CUST00063,Miko Azzahra,L,27,25-35,Bogor,Jawa Barat,BPJS/Asuransi
+PLG064,CUST00064,Farah Saputra,P,22,17-24,Bandung,Jawa Barat,Umum
+PLG065,CUST00065,Putri Azzahra,P,56,56+,Denpasar,Bali,Umum
+PLG066,CUST00066,Elsa Kusuma,P,47,46-55,Surakarta,Jawa Tengah,Member
+PLG067,CUST00067,Intan Nugraha,P,61,56+,Jakarta Timur,DKI Jakarta,Umum
+PLG068,CUST00068,Ilham Amelia,L,46,46-55,Palembang,Sumatera Selatan,Member
+PLG069,CUST00069,Gita Permata,P,62,56+,Surabaya,Jawa Timur,Member
+PLG070,CUST00070,Tiara Permata,P,49,46-55,Malang,Jawa Timur,BPJS/Asuransi
+PLG071,CUST00071,Doni Utami,L,24,17-24,Medan,Sumatera Utara,Member
+PLG072,CUST00072,Fitri Permata,P,20,17-24,Bekasi,Jawa Barat,Member
+PLG073,CUST00073,Gita Amelia,P,27,25-35,Semarang,Jawa Tengah,Member
+PLG074,CUST00074,Putri Ramadhan,P,49,46-55,Palembang,Sumatera Selatan,Corporate
+PLG075,CUST00075,Intan Sari,P,22,17-24,Bandung,Jawa Barat,Corporate
+PLG076,CUST00076,Fitri Santoso,P,39,36-45,Makassar,Sulawesi Selatan,Umum
+PLG077,CUST00077,Arif Sari,L,70,56+,Balikpapan,Kalimantan Timur,Corporate
+PLG078,CUST00078,Elsa Pratama,P,44,36-45,Bekasi,Jawa Barat,Member
+PLG079,CUST00079,Salsa Fauzi,P,19,17-24,Malang,Jawa Timur,Corporate
+PLG080,CUST00080,Miko Mahendra,L,40,36-45,Tangerang,Banten,BPJS/Asuransi
+PLG081,CUST00081,Ayu Fauzi,P,45,36-45,Padang,Sumatera Barat,BPJS/Asuransi
+PLG082,CUST00082,Gita Pangestu,P,25,25-35,Bekasi,Jawa Barat,Umum
+PLG083,CUST00083,Salsa Ananda,P,40,36-45,Pekanbaru,Riau,Member
+PLG084,CUST00084,Nanda Oktavia,L,49,46-55,Sidoarjo,Jawa Timur,Umum
+PLG085,CUST00085,Budi Permata,L,68,56+,Surabaya,Jawa Timur,Corporate
+PLG086,CUST00086,Maya Pangestu,P,25,25-35,Padang,Sumatera Barat,Member
+PLG087,CUST00087,Nabila Fauzi,P,64,56+,Balikpapan,Kalimantan Timur,Member
+PLG088,CUST00088,Dina Oktavia,P,48,46-55,Pekanbaru,Riau,BPJS/Asuransi
+PLG089,CUST00089,Citra Pratama,P,38,36-45,Malang,Jawa Timur,Umum
+PLG090,CUST00090,Farah Kusuma,P,55,46-55,Bandung,Jawa Barat,Corporate
+PLG091,CUST00091,Farah Azzahra,P,63,56+,Semarang,Jawa Tengah,Umum
+PLG092,CUST00092,Nabila Oktavia,P,66,56+,Balikpapan,Kalimantan Timur,Corporate
+PLG093,CUST00093,Rangga Saputra,L,61,56+,Makassar,Sulawesi Selatan,Umum
+PLG094,CUST00094,Andi Nugraha,L,43,36-45,Surabaya,Jawa Timur,Member
+PLG095,CUST00095,Putri Amelia,P,66,56+,Padang,Sumatera Barat,BPJS/Asuransi
+PLG096,CUST00096,Rani Permata,P,30,25-35,Padang,Sumatera Barat,BPJS/Asuransi
+PLG097,CUST00097,Citra Oktavia,P,37,36-45,Sidoarjo,Jawa Timur,Member
+PLG098,CUST00098,Elsa Ananda,P,39,36-45,Pekanbaru,Riau,Member
+PLG099,CUST00099,Putri Utami,P,52,46-55,Yogyakarta,DI Yogyakarta,Member
+PLG100,CUST00100,Arif Kusuma,L,61,56+,Tangerang,Banten,Corporate
+PLG101,CUST00101,Citra Hidayat,P,67,56+,Pekanbaru,Riau,Member
+PLG102,CUST00102,Dewi Azzahra,P,41,36-45,Pekanbaru,Riau,Corporate
+PLG103,CUST00103,Maya Kusuma,P,35,25-35,Jakarta Selatan,DKI Jakarta,Umum
+PLG104,CUST00104,Wulan Maulana,P,30,25-35,Palembang,Sumatera Selatan,Member
+PLG105,CUST00105,Elsa Maulana,P,23,17-24,Bogor,Jawa Barat,BPJS/Asuransi
+PLG106,CUST00106,Rangga Saputra,L,31,25-35,Padang,Sumatera Barat,Member
+PLG107,CUST00107,Rafi Amelia,L,62,56+,Surabaya,Jawa Timur,Corporate
+PLG108,CUST00108,Rizky Pratama,L,27,25-35,Pekanbaru,Riau,Corporate
+PLG109,CUST00109,Citra Santoso,P,37,36-45,Surakarta,Jawa Tengah,Member
+PLG110,CUST00110,Dimas Azzahra,L,51,46-55,Semarang,Jawa Tengah,Umum
+PLG111,CUST00111,Gilang Ramadhan,L,70,56+,Jakarta Selatan,DKI Jakarta,Corporate
+PLG112,CUST00112,Nabila Kusuma,P,17,17-24,Jakarta Selatan,DKI Jakarta,Member
+PLG113,CUST00113,Doni Kusuma,L,58,56+,Medan,Sumatera Utara,BPJS/Asuransi
+PLG114,CUST00114,Maya Oktavia,P,34,25-35,Medan,Sumatera Utara,Member
+PLG115,CUST00115,Doni Ramadhan,L,58,56+,Medan,Sumatera Utara,Member
+PLG116,CUST00116,Andi Ananda,L,53,46-55,Surakarta,Jawa Tengah,Member
+PLG117,CUST00117,Nanda Fauzi,L,49,46-55,Denpasar,Bali,Member
+PLG118,CUST00118,Fikri Lestari,L,25,25-35,Depok,Jawa Barat,Corporate
+PLG119,CUST00119,Fitri Pratama,P,41,36-45,Yogyakarta,DI Yogyakarta,Member
+PLG120,CUST00120,Laras Ananda,P,54,46-55,Surakarta,Jawa Tengah,BPJS/Asuransi
+PLG121,CUST00121,Hendra Hidayat,L,20,17-24,Semarang,Jawa Tengah,Umum
+PLG122,CUST00122,Intan Ramadhan,P,60,56+,Sidoarjo,Jawa Timur,BPJS/Asuransi
+PLG123,CUST00123,Dewi Kusuma,P,56,56+,Malang,Jawa Timur,Member
+PLG124,CUST00124,Rizky Sari,L,46,46-55,Bogor,Jawa Barat,BPJS/Asuransi
+PLG125,CUST00125,Vina Mahendra,P,65,56+,Palembang,Sumatera Selatan,BPJS/Asuransi
+PLG126,CUST00126,Rangga Pangestu,L,50,46-55,Jakarta Timur,DKI Jakarta,Corporate
+PLG127,CUST00127,Ayu Azzahra,P,20,17-24,Bekasi,Jawa Barat,BPJS/Asuransi
+PLG128,CUST00128,Miko Mahendra,L,27,25-35,Bogor,Jawa Barat,Member
+PLG129,CUST00129,Dewi Santoso,P,48,46-55,Makassar,Sulawesi Selatan,Umum
+PLG130,CUST00130,Rani Nugraha,P,49,46-55,Bogor,Jawa Barat,Corporate
+PLG131,CUST00131,Farah Saputra,P,46,46-55,Pekanbaru,Riau,Member
+PLG132,CUST00132,Fikri Maulana,L,64,56+,Bandung,Jawa Barat,Member
+PLG133,CUST00133,Budi Amelia,L,61,56+,Malang,Jawa Timur,Umum
+PLG134,CUST00134,Dimas Sari,L,35,25-35,Jakarta Selatan,DKI Jakarta,Corporate
+PLG135,CUST00135,Rizky Amelia,L,41,36-45,Malang,Jawa Timur,Corporate
+PLG136,CUST00136,Tiara Wijaya,P,25,25-35,Pekanbaru,Riau,Member
+PLG137,CUST00137,Fajar Mahendra,L,50,46-55,Sidoarjo,Jawa Timur,Member
+PLG138,CUST00138,Andi Pratama,L,46,46-55,Surakarta,Jawa Tengah,BPJS/Asuransi
+PLG139,CUST00139,Elsa Fauzi,P,32,25-35,Semarang,Jawa Tengah,Corporate
+PLG140,CUST00140,Maya Maulana,P,63,56+,Tangerang,Banten,Umum
+PLG141,CUST00141,Gilang Pangestu,L,32,25-35,Bandung,Jawa Barat,Member
+PLG142,CUST00142,Rafi Pangestu,L,45,36-45,Jakarta Selatan,DKI Jakarta,BPJS/Asuransi
+PLG143,CUST00143,Rangga Saputra,L,45,36-45,Sidoarjo,Jawa Timur,Member
+PLG144,CUST00144,Budi Permata,L,35,25-35,Padang,Sumatera Barat,Member
+PLG145,CUST00145,Farah Pangestu,P,32,25-35,Surabaya,Jawa Timur,Member
+PLG146,CUST00146,Kevin Utami,L,36,36-45,Denpasar,Bali,Member
+PLG147,CUST00147,Lutfi Azzahra,L,57,56+,Depok,Jawa Barat,Corporate
+PLG148,CUST00148,Rani Hidayat,P,67,56+,Sidoarjo,Jawa Timur,BPJS/Asuransi
+PLG149,CUST00149,Vina Amelia,P,36,36-45,Bogor,Jawa Barat,Corporate
+PLG150,CUST00150,Lutfi Sari,L,31,25-35,Semarang,Jawa Tengah,Member

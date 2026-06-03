@@ -1,0 +1,101 @@
+ApotekID,KodeApotek,NamaApotek,Kota,Provinsi,Wilayah,TipeCabang,StatusCabang
+APT001,KF-BEK001,Kimia Farma Bekasi 1,Bekasi,Jawa Barat,Barat,Reguler,Aktif
+APT002,KF-BAN002,Kimia Farma Bandung 2,Bandung,Jawa Barat,Barat,Klinik Terintegrasi,Aktif
+APT003,KF-MAK003,Kimia Farma Makassar 3,Makassar,Sulawesi Selatan,Timur,Klinik Terintegrasi,Aktif
+APT004,KF-DEP004,Kimia Farma Depok 4,Depok,Jawa Barat,Barat,Klinik Terintegrasi,Aktif
+APT005,KF-BOG005,Kimia Farma Bogor 5,Bogor,Jawa Barat,Barat,Mall/Commercial,Aktif
+APT006,KF-JAK006,Kimia Farma Jakarta Timur 6,Jakarta Timur,DKI Jakarta,Barat,Mall/Commercial,Renovasi
+APT007,KF-MAL007,Kimia Farma Malang 7,Malang,Jawa Timur,Timur,Reguler,Renovasi
+APT008,KF-PAD008,Kimia Farma Padang 8,Padang,Sumatera Barat,Barat,Prime,Aktif
+APT009,KF-PAD009,Kimia Farma Padang 9,Padang,Sumatera Barat,Barat,Klinik Terintegrasi,Renovasi
+APT010,KF-BAN010,Kimia Farma Bandung 10,Bandung,Jawa Barat,Barat,Reguler,Renovasi
+APT011,KF-SID011,Kimia Farma Sidoarjo 11,Sidoarjo,Jawa Timur,Timur,Mall/Commercial,Aktif
+APT012,KF-PAL012,Kimia Farma Palembang 12,Palembang,Sumatera Selatan,Barat,Mall/Commercial,Aktif
+APT013,KF-JAK013,Kimia Farma Jakarta Timur 13,Jakarta Timur,DKI Jakarta,Barat,Klinik Terintegrasi,Aktif
+APT014,KF-JAK014,Kimia Farma Jakarta Timur 14,Jakarta Timur,DKI Jakarta,Barat,Prime,Aktif
+APT015,KF-BAL015,Kimia Farma Balikpapan 15,Balikpapan,Kalimantan Timur,Timur,Klinik Terintegrasi,Renovasi
+APT016,KF-BAL016,Kimia Farma Balikpapan 16,Balikpapan,Kalimantan Timur,Timur,Klinik Terintegrasi,Renovasi
+APT017,KF-PAD017,Kimia Farma Padang 17,Padang,Sumatera Barat,Barat,Mall/Commercial,Aktif
+APT018,KF-BEK018,Kimia Farma Bekasi 18,Bekasi,Jawa Barat,Barat,Prime,Renovasi
+APT019,KF-MED019,Kimia Farma Medan 19,Medan,Sumatera Utara,Barat,Prime,Renovasi
+APT020,KF-SUR020,Kimia Farma Surabaya 20,Surabaya,Jawa Timur,Timur,Mall/Commercial,Renovasi
+APT021,KF-DEN021,Kimia Farma Denpasar 21,Denpasar,Bali,Timur,Reguler,Aktif
+APT022,KF-DEN022,Kimia Farma Denpasar 22,Denpasar,Bali,Timur,Klinik Terintegrasi,Aktif
+APT023,KF-MAL023,Kimia Farma Malang 23,Malang,Jawa Timur,Timur,Prime,Renovasi
+APT024,KF-JAK024,Kimia Farma Jakarta Timur 24,Jakarta Timur,DKI Jakarta,Barat,Reguler,Aktif
+APT025,KF-JAK025,Kimia Farma Jakarta Timur 25,Jakarta Timur,DKI Jakarta,Barat,Mall/Commercial,Aktif
+APT026,KF-MAL026,Kimia Farma Malang 26,Malang,Jawa Timur,Timur,Prime,Aktif
+APT027,KF-MAK027,Kimia Farma Makassar 27,Makassar,Sulawesi Selatan,Timur,Klinik Terintegrasi,Aktif
+APT028,KF-DEN028,Kimia Farma Denpasar 28,Denpasar,Bali,Timur,Klinik Terintegrasi,Renovasi
+APT029,KF-JAK029,Kimia Farma Jakarta Selatan 29,Jakarta Selatan,DKI Jakarta,Barat,Klinik Terintegrasi,Aktif
+APT030,KF-MAL030,Kimia Farma Malang 30,Malang,Jawa Timur,Timur,Reguler,Aktif
+APT031,KF-BOG031,Kimia Farma Bogor 31,Bogor,Jawa Barat,Barat,Mall/Commercial,Aktif
+APT032,KF-BEK032,Kimia Farma Bekasi 32,Bekasi,Jawa Barat,Barat,Klinik Terintegrasi,Aktif
+APT033,KF-BEK033,Kimia Farma Bekasi 33,Bekasi,Jawa Barat,Barat,Klinik Terintegrasi,Aktif
+APT034,KF-DEN034,Kimia Farma Denpasar 34,Denpasar,Bali,Timur,Reguler,Aktif
+APT035,KF-BAN035,Kimia Farma Bandung 35,Bandung,Jawa Barat,Barat,Prime,Aktif
+APT036,KF-SUR036,Kimia Farma Surakarta 36,Surakarta,Jawa Tengah,Tengah,Klinik Terintegrasi,Aktif
+APT037,KF-BAN037,Kimia Farma Bandung 37,Bandung,Jawa Barat,Barat,Prime,Aktif
+APT038,KF-MAK038,Kimia Farma Makassar 38,Makassar,Sulawesi Selatan,Timur,Mall/Commercial,Aktif
+APT039,KF-BOG039,Kimia Farma Bogor 39,Bogor,Jawa Barat,Barat,Reguler,Aktif
+APT040,KF-PAD040,Kimia Farma Padang 40,Padang,Sumatera Barat,Barat,Prime,Renovasi
+APT041,KF-DEN041,Kimia Farma Denpasar 41,Denpasar,Bali,Timur,Mall/Commercial,Aktif
+APT042,KF-DEP042,Kimia Farma Depok 42,Depok,Jawa Barat,Barat,Klinik Terintegrasi,Aktif
+APT043,KF-SUR043,Kimia Farma Surabaya 43,Surabaya,Jawa Timur,Timur,Reguler,Aktif
+APT044,KF-BOG044,Kimia Farma Bogor 44,Bogor,Jawa Barat,Barat,Prime,Aktif
+APT045,KF-JAK045,Kimia Farma Jakarta Timur 45,Jakarta Timur,DKI Jakarta,Barat,Klinik Terintegrasi,Renovasi
+APT046,KF-DEN046,Kimia Farma Denpasar 46,Denpasar,Bali,Timur,Mall/Commercial,Renovasi
+APT047,KF-DEN047,Kimia Farma Denpasar 47,Denpasar,Bali,Timur,Klinik Terintegrasi,Aktif
+APT048,KF-PAD048,Kimia Farma Padang 48,Padang,Sumatera Barat,Barat,Reguler,Aktif
+APT049,KF-DEN049,Kimia Farma Denpasar 49,Denpasar,Bali,Timur,Reguler,Aktif
+APT050,KF-MAK050,Kimia Farma Makassar 50,Makassar,Sulawesi Selatan,Timur,Mall/Commercial,Aktif
+APT051,KF-JAK051,Kimia Farma Jakarta Selatan 51,Jakarta Selatan,DKI Jakarta,Barat,Prime,Renovasi
+APT052,KF-BAL052,Kimia Farma Balikpapan 52,Balikpapan,Kalimantan Timur,Timur,Reguler,Aktif
+APT053,KF-TAN053,Kimia Farma Tangerang 53,Tangerang,Banten,Barat,Klinik Terintegrasi,Aktif
+APT054,KF-BOG054,Kimia Farma Bogor 54,Bogor,Jawa Barat,Barat,Klinik Terintegrasi,Aktif
+APT055,KF-SUR055,Kimia Farma Surabaya 55,Surabaya,Jawa Timur,Timur,Reguler,Aktif
+APT056,KF-PAL056,Kimia Farma Palembang 56,Palembang,Sumatera Selatan,Barat,Mall/Commercial,Aktif
+APT057,KF-BOG057,Kimia Farma Bogor 57,Bogor,Jawa Barat,Barat,Mall/Commercial,Aktif
+APT058,KF-PAD058,Kimia Farma Padang 58,Padang,Sumatera Barat,Barat,Klinik Terintegrasi,Aktif
+APT059,KF-SID059,Kimia Farma Sidoarjo 59,Sidoarjo,Jawa Timur,Timur,Reguler,Renovasi
+APT060,KF-BAN060,Kimia Farma Bandung 60,Bandung,Jawa Barat,Barat,Mall/Commercial,Aktif
+APT061,KF-SUR061,Kimia Farma Surabaya 61,Surabaya,Jawa Timur,Timur,Mall/Commercial,Renovasi
+APT062,KF-DEN062,Kimia Farma Denpasar 62,Denpasar,Bali,Timur,Klinik Terintegrasi,Aktif
+APT063,KF-SID063,Kimia Farma Sidoarjo 63,Sidoarjo,Jawa Timur,Timur,Reguler,Aktif
+APT064,KF-DEP064,Kimia Farma Depok 64,Depok,Jawa Barat,Barat,Mall/Commercial,Aktif
+APT065,KF-JAK065,Kimia Farma Jakarta Timur 65,Jakarta Timur,DKI Jakarta,Barat,Mall/Commercial,Aktif
+APT066,KF-SEM066,Kimia Farma Semarang 66,Semarang,Jawa Tengah,Tengah,Mall/Commercial,Renovasi
+APT067,KF-PAD067,Kimia Farma Padang 67,Padang,Sumatera Barat,Barat,Reguler,Renovasi
+APT068,KF-SUR068,Kimia Farma Surakarta 68,Surakarta,Jawa Tengah,Tengah,Klinik Terintegrasi,Aktif
+APT069,KF-SUR069,Kimia Farma Surabaya 69,Surabaya,Jawa Timur,Timur,Prime,Aktif
+APT070,KF-PAD070,Kimia Farma Padang 70,Padang,Sumatera Barat,Barat,Reguler,Aktif
+APT071,KF-MAL071,Kimia Farma Malang 71,Malang,Jawa Timur,Timur,Klinik Terintegrasi,Aktif
+APT072,KF-SEM072,Kimia Farma Semarang 72,Semarang,Jawa Tengah,Tengah,Reguler,Aktif
+APT073,KF-YOG073,Kimia Farma Yogyakarta 73,Yogyakarta,DI Yogyakarta,Tengah,Prime,Aktif
+APT074,KF-BAL074,Kimia Farma Balikpapan 74,Balikpapan,Kalimantan Timur,Timur,Prime,Aktif
+APT075,KF-DEP075,Kimia Farma Depok 75,Depok,Jawa Barat,Barat,Mall/Commercial,Renovasi
+APT076,KF-MAK076,Kimia Farma Makassar 76,Makassar,Sulawesi Selatan,Timur,Mall/Commercial,Aktif
+APT077,KF-SUR077,Kimia Farma Surabaya 77,Surabaya,Jawa Timur,Timur,Prime,Renovasi
+APT078,KF-JAK078,Kimia Farma Jakarta Timur 78,Jakarta Timur,DKI Jakarta,Barat,Mall/Commercial,Renovasi
+APT079,KF-SUR079,Kimia Farma Surakarta 79,Surakarta,Jawa Tengah,Tengah,Klinik Terintegrasi,Aktif
+APT080,KF-MAL080,Kimia Farma Malang 80,Malang,Jawa Timur,Timur,Reguler,Aktif
+APT081,KF-MED081,Kimia Farma Medan 81,Medan,Sumatera Utara,Barat,Mall/Commercial,Aktif
+APT082,KF-JAK082,Kimia Farma Jakarta Selatan 82,Jakarta Selatan,DKI Jakarta,Barat,Klinik Terintegrasi,Aktif
+APT083,KF-JAK083,Kimia Farma Jakarta Timur 83,Jakarta Timur,DKI Jakarta,Barat,Reguler,Renovasi
+APT084,KF-MED084,Kimia Farma Medan 84,Medan,Sumatera Utara,Barat,Reguler,Renovasi
+APT085,KF-MAK085,Kimia Farma Makassar 85,Makassar,Sulawesi Selatan,Timur,Prime,Aktif
+APT086,KF-BAL086,Kimia Farma Balikpapan 86,Balikpapan,Kalimantan Timur,Timur,Mall/Commercial,Aktif
+APT087,KF-JAK087,Kimia Farma Jakarta Selatan 87,Jakarta Selatan,DKI Jakarta,Barat,Mall/Commercial,Aktif
+APT088,KF-SUR088,Kimia Farma Surabaya 88,Surabaya,Jawa Timur,Timur,Reguler,Aktif
+APT089,KF-JAK089,Kimia Farma Jakarta Selatan 89,Jakarta Selatan,DKI Jakarta,Barat,Prime,Renovasi
+APT090,KF-MED090,Kimia Farma Medan 90,Medan,Sumatera Utara,Barat,Prime,Aktif
+APT091,KF-MAL091,Kimia Farma Malang 91,Malang,Jawa Timur,Timur,Klinik Terintegrasi,Renovasi
+APT092,KF-DEN092,Kimia Farma Denpasar 92,Denpasar,Bali,Timur,Klinik Terintegrasi,Aktif
+APT093,KF-SUR093,Kimia Farma Surabaya 93,Surabaya,Jawa Timur,Timur,Reguler,Aktif
+APT094,KF-BEK094,Kimia Farma Bekasi 94,Bekasi,Jawa Barat,Barat,Mall/Commercial,Aktif
+APT095,KF-YOG095,Kimia Farma Yogyakarta 95,Yogyakarta,DI Yogyakarta,Tengah,Prime,Aktif
+APT096,KF-JAK096,Kimia Farma Jakarta Timur 96,Jakarta Timur,DKI Jakarta,Barat,Prime,Aktif
+APT097,KF-SUR097,Kimia Farma Surakarta 97,Surakarta,Jawa Tengah,Tengah,Mall/Commercial,Aktif
+APT098,KF-BAL098,Kimia Farma Balikpapan 98,Balikpapan,Kalimantan Timur,Timur,Reguler,Aktif
+APT099,KF-PEK099,Kimia Farma Pekanbaru 99,Pekanbaru,Riau,Barat,Mall/Commercial,Aktif
+APT100,KF-BOG100,Kimia Farma Bogor 100,Bogor,Jawa Barat,Barat,Reguler,Renovasi

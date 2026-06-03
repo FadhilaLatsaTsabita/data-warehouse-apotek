@@ -1,0 +1,101 @@
+SupplierID,NamaSupplier,KotaSupplier,ProvinsiSupplier,WilayahSupplier,KategoriSupplier
+SUP001,PT Herbal Nusantara,Yogyakarta,DI Yogyakarta,Tengah,Obat Bebas
+SUP002,PT Sentosa Sejahtera,Bekasi,Jawa Barat,Barat,Perawatan Kesehatan
+SUP003,PT Vita Indonesia,Makassar,Sulawesi Selatan,Timur,Alat Kesehatan
+SUP004,PT Medika Nusantara,Jakarta Timur,DKI Jakarta,Barat,Obat Bebas
+SUP005,PT Sentosa Jaya,Balikpapan,Kalimantan Timur,Timur,Obat Generik
+SUP006,PT Vita Mandiri,Pekanbaru,Riau,Barat,Alat Kesehatan
+SUP007,PT Sentosa Utama,Makassar,Sulawesi Selatan,Timur,Vitamin & Suplemen
+SUP008,PT Sehat Sejahtera,Denpasar,Bali,Timur,Vitamin & Suplemen
+SUP009,PT Bio Sejahtera,Tangerang,Banten,Barat,Vitamin & Suplemen
+SUP010,PT Herbal Indonesia,Sidoarjo,Jawa Timur,Timur,Obat Generik
+SUP011,PT Sarana Farma,Balikpapan,Kalimantan Timur,Timur,Vitamin & Suplemen
+SUP012,PT Medika Utama,Pekanbaru,Riau,Barat,Obat Generik
+SUP013,PT Mega Indonesia,Pekanbaru,Riau,Barat,Vitamin & Suplemen
+SUP014,PT Bersama Farma,Makassar,Sulawesi Selatan,Timur,Obat Bebas
+SUP015,PT Farma Nusantara,Semarang,Jawa Tengah,Tengah,Vitamin & Suplemen
+SUP016,PT Farma Mandiri,Bekasi,Jawa Barat,Barat,Alat Kesehatan
+SUP017,PT Bio Utama,Malang,Jawa Timur,Timur,Obat Bebas
+SUP018,PT Global Medika,Jakarta Timur,DKI Jakarta,Barat,Herbal
+SUP019,PT Prima Jaya,Semarang,Jawa Tengah,Tengah,Obat Bebas
+SUP020,PT Anugerah Kesehatan,Yogyakarta,DI Yogyakarta,Tengah,Perawatan Kesehatan
+SUP021,PT Mitra Nusantara,Semarang,Jawa Tengah,Tengah,Obat Generik
+SUP022,PT Mitra Kesehatan,Yogyakarta,DI Yogyakarta,Tengah,Obat Generik
+SUP023,PT Global Abadi,Surabaya,Jawa Timur,Timur,Obat Bebas
+SUP024,PT Sumber Kesehatan,Medan,Sumatera Utara,Barat,Obat Bebas
+SUP025,PT Vita Medika,Makassar,Sulawesi Selatan,Timur,Alat Kesehatan
+SUP026,PT Generik Kesehatan,Malang,Jawa Timur,Timur,Obat Bebas
+SUP027,PT Nusa Jaya,Palembang,Sumatera Selatan,Barat,Obat Generik
+SUP028,PT Medika Indonesia,Bogor,Jawa Barat,Barat,Perawatan Kesehatan
+SUP029,PT Prima Kesehatan,Balikpapan,Kalimantan Timur,Timur,Obat Generik
+SUP030,PT Mega Kesehatan,Balikpapan,Kalimantan Timur,Timur,Alat Kesehatan
+SUP031,PT Alkes Medika,Pekanbaru,Riau,Barat,Obat Generik
+SUP032,PT Herbal Jaya,Yogyakarta,DI Yogyakarta,Tengah,Perawatan Kesehatan
+SUP033,PT Mitra Indonesia,Surakarta,Jawa Tengah,Tengah,Alat Kesehatan
+SUP034,PT Prima Utama,Bandung,Jawa Barat,Barat,Perawatan Kesehatan
+SUP035,PT Bio Jaya,Depok,Jawa Barat,Barat,Herbal
+SUP036,PT Herbal Medika,Padang,Sumatera Barat,Barat,Herbal
+SUP037,PT Global Sejahtera,Malang,Jawa Timur,Timur,Obat Bebas
+SUP038,PT Vita Jaya,Bandung,Jawa Barat,Barat,Herbal
+SUP039,PT Mitra Utama,Bandung,Jawa Barat,Barat,Obat Generik
+SUP040,PT Sarana Medika,Semarang,Jawa Tengah,Tengah,Obat Generik
+SUP041,PT Sentosa Abadi,Jakarta Timur,DKI Jakarta,Barat,Obat Generik
+SUP042,PT Sumber Indonesia,Pekanbaru,Riau,Barat,Obat Bebas
+SUP043,PT Nusa Utama,Pekanbaru,Riau,Barat,Obat Bebas
+SUP044,PT Bersama Kesehatan,Tangerang,Banten,Barat,Herbal
+SUP045,PT Mega Farma,Medan,Sumatera Utara,Barat,Herbal
+SUP046,PT Anugerah Indonesia,Semarang,Jawa Tengah,Tengah,Obat Bebas
+SUP047,PT Farma Farma,Bandung,Jawa Barat,Barat,Herbal
+SUP048,PT Generik Mandiri,Bandung,Jawa Barat,Barat,Obat Generik
+SUP049,PT Medika Mandiri,Jakarta Timur,DKI Jakarta,Barat,Obat Generik
+SUP050,PT Alkes Mandiri,Yogyakarta,DI Yogyakarta,Tengah,Perawatan Kesehatan
+SUP051,PT Sumber Mandiri,Pekanbaru,Riau,Barat,Obat Bebas
+SUP052,PT Generik Abadi,Palembang,Sumatera Selatan,Barat,Obat Bebas
+SUP053,PT Global Indonesia,Bekasi,Jawa Barat,Barat,Perawatan Kesehatan
+SUP054,PT Indo Farma,Denpasar,Bali,Timur,Alat Kesehatan
+SUP055,PT Anugerah Nusantara,Bekasi,Jawa Barat,Barat,Obat Generik
+SUP056,PT Herbal Mandiri,Tangerang,Banten,Barat,Obat Bebas
+SUP057,PT Vita Utama,Bogor,Jawa Barat,Barat,Alat Kesehatan
+SUP058,PT Prima Medika,Medan,Sumatera Utara,Barat,Obat Bebas
+SUP059,PT Farma Utama,Pekanbaru,Riau,Barat,Obat Generik
+SUP060,PT Medika Jaya,Bandung,Jawa Barat,Barat,Obat Generik
+SUP061,PT Indo Utama,Palembang,Sumatera Selatan,Barat,Obat Bebas
+SUP062,PT Mega Nusantara,Depok,Jawa Barat,Barat,Alat Kesehatan
+SUP063,PT Sehat Kesehatan,Yogyakarta,DI Yogyakarta,Tengah,Alat Kesehatan
+SUP064,PT Citra Kesehatan,Pekanbaru,Riau,Barat,Perawatan Kesehatan
+SUP065,PT Sumber Sejahtera,Tangerang,Banten,Barat,Vitamin & Suplemen
+SUP066,PT Global Nusantara,Makassar,Sulawesi Selatan,Timur,Perawatan Kesehatan
+SUP067,PT Vita Nusantara,Surabaya,Jawa Timur,Timur,Obat Generik
+SUP068,PT Medika Abadi,Palembang,Sumatera Selatan,Barat,Herbal
+SUP069,PT Alkes Sejahtera,Jakarta Selatan,DKI Jakarta,Barat,Herbal
+SUP070,PT Farma Sejahtera,Jakarta Timur,DKI Jakarta,Barat,Herbal
+SUP071,PT Farma Kesehatan,Makassar,Sulawesi Selatan,Timur,Herbal
+SUP072,PT Alkes Farma,Yogyakarta,DI Yogyakarta,Tengah,Obat Bebas
+SUP073,PT Mitra Mandiri,Yogyakarta,DI Yogyakarta,Tengah,Alat Kesehatan
+SUP074,PT Nusa Medika,Medan,Sumatera Utara,Barat,Vitamin & Suplemen
+SUP075,PT Anugerah Abadi,Makassar,Sulawesi Selatan,Timur,Obat Generik
+SUP076,PT Farma Jaya,Tangerang,Banten,Barat,Herbal
+SUP077,PT Sarana Indonesia,Semarang,Jawa Tengah,Tengah,Vitamin & Suplemen
+SUP078,PT Citra Sejahtera,Medan,Sumatera Utara,Barat,Herbal
+SUP079,PT Citra Abadi,Padang,Sumatera Barat,Barat,Obat Generik
+SUP080,PT Herbal Sejahtera,Yogyakarta,DI Yogyakarta,Tengah,Obat Generik
+SUP081,PT Global Farma,Tangerang,Banten,Barat,Perawatan Kesehatan
+SUP082,PT Sumber Medika,Jakarta Selatan,DKI Jakarta,Barat,Obat Generik
+SUP083,PT Indo Medika,Jakarta Selatan,DKI Jakarta,Barat,Obat Generik
+SUP084,PT Mitra Sejahtera,Yogyakarta,DI Yogyakarta,Tengah,Obat Bebas
+SUP085,PT Anugerah Jaya,Denpasar,Bali,Timur,Herbal
+SUP086,PT Sehat Indonesia,Jakarta Timur,DKI Jakarta,Barat,Perawatan Kesehatan
+SUP087,PT Medika Farma,Makassar,Sulawesi Selatan,Timur,Herbal
+SUP088,PT Nusa Kesehatan,Bogor,Jawa Barat,Barat,Obat Generik
+SUP089,PT Citra Farma,Jakarta Selatan,DKI Jakarta,Barat,Vitamin & Suplemen
+SUP090,PT Global Mandiri,Bekasi,Jawa Barat,Barat,Vitamin & Suplemen
+SUP091,PT Vita Kesehatan,Balikpapan,Kalimantan Timur,Timur,Perawatan Kesehatan
+SUP092,PT Nusa Mandiri,Depok,Jawa Barat,Barat,Obat Bebas
+SUP093,PT Indo Nusantara,Depok,Jawa Barat,Barat,Perawatan Kesehatan
+SUP094,PT Sentosa Medika,Depok,Jawa Barat,Barat,Perawatan Kesehatan
+SUP095,PT Herbal Kesehatan,Jakarta Selatan,DKI Jakarta,Barat,Alat Kesehatan
+SUP096,PT Sentosa Mandiri,Medan,Sumatera Utara,Barat,Vitamin & Suplemen
+SUP097,PT Citra Mandiri,Semarang,Jawa Tengah,Tengah,Obat Generik
+SUP098,PT Global Kesehatan,Surabaya,Jawa Timur,Timur,Vitamin & Suplemen
+SUP099,PT Farma Medika,Malang,Jawa Timur,Timur,Perawatan Kesehatan
+SUP100,PT Alkes Kesehatan,Pekanbaru,Riau,Barat,Vitamin & Suplemen
